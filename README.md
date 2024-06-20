@@ -47,7 +47,7 @@ After training, the model is evaluated on the test set to measure its performanc
 
 ### Usage
 
-You can run the main script `MnistClassificationUsingCNN.ipynb` to train and evaluate the CNN model:
+You can run the main script `MnistClassificationUsingCNN.ipynb` to train and evaluate the CNN model using google collab or with local machine.
 
 The script will train the model, evaluate its performance on the test set, and plot the training/validation loss and accuracy graphs using Matplotlib.
 
