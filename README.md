@@ -72,7 +72,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspired by the MNIST dataset and CNN architecture tutorials.
-
----
-
-This README file provides a comprehensive overview of the project, including how to get started, the dataset used, model architecture, training and evaluation process, usage instructions, example predictions, results, author information, licensing details, and acknowledgments. Adjust the links and details to fit your specific project and preferences.
